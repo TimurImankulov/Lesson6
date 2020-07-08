@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lesson6</string>
+    <string name="item_products">Товары</string>
+    <string name="item_services">Услуги</string>
+    <string name="item_aboutApp">О приложении</string>
+    <string name="tv_macbook">Macbook Air</string>
+    <string name="tv_macbookPro">Macbook Pro</string>
+    <string name="tv_airpods">Airpods</string>
+    <string name="products_title">Товары</string>
+    <string name="services_title">Услуги</string>
+    <string name="tvMobile">Мобильная разработка</string>
+    <string name="tvWeb">Веб разработка</string>
+    <string name="tvDesing">Дизайн</string>
+    <string name="tvMain">Нажмите на меню, в правом верхнем углу!</string>
+</resources>
